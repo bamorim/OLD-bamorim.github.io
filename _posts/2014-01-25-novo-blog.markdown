@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Novo Blog"
+date:   2014-01-25 16:33:25
+categories: blog
+---
+
+Pois é, to fazendo um novo blog usando Jekyll. Eu joguei fora o meu feito em toto porque eu precisava de um host como o Heroku(ou o meu recém comprado Cloud At Cost), mas eu preferi deixar no GitHub Pages, que permite Jekyll.
+
+Se você também quer um blog legal e de fácil customização, entre no syte do [Jekyll][jekyll]
+
+Depois vou pedir uma ajudinha ao meu amigo designer e roommate, [Sibelius Claussen][sibelius] para fazer um design bonitinho para isso aqui, já que eu que desenvolvi o portfólio dele hahaha.
+
+[jekyll]: http://jekyllrb.com/
+[sibelius]: http://www.sibeliusclaussen.com/
