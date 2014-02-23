@@ -72,10 +72,10 @@ Sendo assim eu primeiro pensei em como representar isso num objeto javascript e 
 
 Também era preciso saber como classificar por Sexo, Status de Relacionamento e Signo do Zodíaco. Para os dois primeiros é só pegar o atributo correspondente e agrupar pelos valores. Para o Signo era preciso uma função que baseado na data de nascimento eu obtivesse o signo correspondete.
 
-Com isso eu imaginei uma função que gerasse um xml do treebolic dado um nó root. Com isso eu consegui montar a função `generateFriendsXml`:
+Com isso eu imaginei uma função que gerasse um xml do treebolic dado um nó root. Com isso eu consegui montar a função `printFriendsXml`:
 
 ``` javascript
-function generateFriendsXml( err, res ){
+function printFriendsXml( err, res ){
   if(err) return console.log(err);
  
   process.stdout.write( generateTreebolicXml( {
